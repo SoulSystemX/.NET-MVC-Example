@@ -3,9 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace dot_NET_MVC_Example.Models
+namespace UniversityOfSunderland.Models
 {
     public class Student
     {
+        public int ID { get; set; }
+        public string LastName { get; set; }
+        public string FirstName { get; set; }
+        public DateTime EnrollmentDate { get; set; }
+
+        public virtual ICollection<Enrollment> Enrollments { get; set; }
     }
 }

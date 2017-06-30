@@ -65,3 +65,7 @@ I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\
 I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\dot NET MVC Example.csprojResolveAssemblyReference.cache
 I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\dot NET MVC Example.dll
 I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\dot NET MVC Example.pdb
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\EntityFramework.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\EntityFramework.SqlServer.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\EntityFramework.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\EntityFramework.SqlServer.xml
