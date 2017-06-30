@@ -1,0 +1,67 @@
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\ApplicationInsights.config
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\csc.exe
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\csc.exe.config
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\csc.rsp
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\csi.exe
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\csi.rsp
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\System.AppContext.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\System.Collections.Immutable.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\System.IO.FileSystem.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\System.Reflection.Metadata.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\vbc.exe
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\vbc.exe.config
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\vbc.rsp
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\VBCSCompiler.exe
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\roslyn\VBCSCompiler.exe.config
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\dot NET MVC Example.dll.config
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\dot NET MVC Example.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\dot NET MVC Example.pdb
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Antlr3.Runtime.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.DependencyCollector.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.Web.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.WindowsServer.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.ApplicationInsights.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.Web.Infrastructure.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Newtonsoft.Json.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.Helpers.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.Mvc.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.Optimization.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.Razor.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.WebPages.Deployment.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.WebPages.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.WebPages.Razor.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\WebGrease.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.Helpers.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.Mvc.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.Optimization.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.Razor.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.WebPages.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.WebPages.Deployment.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\System.Web.WebPages.Razor.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Antlr3.Runtime.pdb
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Newtonsoft.Json.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.ApplicationInsights.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.DependencyCollector.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.WindowsServer.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\Microsoft.AI.Web.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\dot NET MVC Example.csprojResolveAssemblyReference.cache
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\dot NET MVC Example.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\dot NET MVC Example.pdb
