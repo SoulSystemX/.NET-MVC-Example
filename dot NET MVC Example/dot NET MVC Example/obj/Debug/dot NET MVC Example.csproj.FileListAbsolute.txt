@@ -69,3 +69,7 @@ I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\
 I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\EntityFramework.SqlServer.dll
 I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\EntityFramework.xml
 I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\EntityFramework.SqlServer.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\PagedList.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\PagedList.Mvc.dll
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\PagedList.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\PagedList.Mvc.xml
