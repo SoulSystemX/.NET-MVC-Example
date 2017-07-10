@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using UniversityOfSunderland.DAL;
 using UniversityOfSunderland.ViewModels;
 
-namespace dot_NET_MVC_Example.Controllers
+namespace UniversityOfSunderland.Controllers
 {
     public class HomeController : Controller
     {

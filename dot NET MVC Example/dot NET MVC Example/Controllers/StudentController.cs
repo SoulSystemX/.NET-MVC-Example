@@ -5,6 +5,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Net;
 using System.Web;
+using System.Data.Entity.Infrastructure;
 using System.Web.Mvc;
 using UniversityOfSunderland.DAL;
 using UniversityOfSunderland.Models;
@@ -39,7 +40,7 @@ namespace UniversityOfSunderland.Controllers
             if (!String.IsNullOrEmpty(searchString))
             {
                 students = students.Where(s => s.LastName.Contains(searchString)
-                                       || s.FirstName.Contains(searchString));
+                                       || s.FirstMidName.Contains(searchString));
             }
             switch (sortOrder)
             {
@@ -136,7 +137,7 @@ namespace UniversityOfSunderland.Controllers
 
                     return RedirectToAction("Index");
                 }
-                catch (DataException /* dex */)
+                catch (RetryLimitExceededException  /* dex */)
                 {
                     //Log the error (uncomment dex variable name and add a line here to write a log.
                     ModelState.AddModelError("", "Unable to save changes. Try again, and if the problem persists, see your system administrator.");

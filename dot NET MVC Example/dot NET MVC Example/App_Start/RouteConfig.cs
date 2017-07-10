@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace dot_NET_MVC_Example
+namespace UniversityOfSunderland
 {
     public class RouteConfig
     {

@@ -155,13 +155,50 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\StudentController.cs" />
+    <Compile Include="DAL\SchoolConfiguration.cs" />
     <Compile Include="DAL\SchoolContext.cs" />
     <Compile Include="DAL\SchoolInitializer.cs" />
+    <Compile Include="DAL\SchoolInterceptorLogging.cs" />
+    <Compile Include="DAL\SchoolInterceptorTransientErrors.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Logging\ILogger.cs" />
+    <Compile Include="Logging\Logger.cs" />
+    <Compile Include="Migrations\201707101336114_InitialCreate.cs" />
+    <Compile Include="Migrations\201707101336114_InitialCreate.Designer.cs">
+      <DependentUpon>201707101336114_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707101346172_MaxLengthOnNames.cs" />
+    <Compile Include="Migrations\201707101346172_MaxLengthOnNames.Designer.cs">
+      <DependentUpon>201707101346172_MaxLengthOnNames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707101353056_ColumnFirstName.cs" />
+    <Compile Include="Migrations\201707101353056_ColumnFirstName.Designer.cs">
+      <DependentUpon>201707101353056_ColumnFirstName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707101418564_ComplexDataModel.cs" />
+    <Compile Include="Migrations\201707101418564_ComplexDataModel.Designer.cs">
+      <DependentUpon>201707101418564_ComplexDataModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707101424567_ComplexDataModel1.cs" />
+    <Compile Include="Migrations\201707101424567_ComplexDataModel1.Designer.cs">
+      <DependentUpon>201707101424567_ComplexDataModel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707101427063_ComplexDataModel2.cs" />
+    <Compile Include="Migrations\201707101427063_ComplexDataModel2.Designer.cs">
+      <DependentUpon>201707101427063_ComplexDataModel2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707101431348_ComplexDataModel4.cs" />
+    <Compile Include="Migrations\201707101431348_ComplexDataModel4.Designer.cs">
+      <DependentUpon>201707101431348_ComplexDataModel4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
+    <Compile Include="Models\Department.cs" />
     <Compile Include="Models\Enrollment.cs" />
+    <Compile Include="Models\Instructor.cs" />
+    <Compile Include="Models\OfficeAssignment.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\EnrollmentDateGroup.cs" />
@@ -190,14 +227,18 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
-    <Content Include="Views\Web.config" />
+    <Content Include="Views\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
@@ -227,6 +268,29 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201707101336114_InitialCreate.resx">
+      <DependentUpon>201707101336114_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707101346172_MaxLengthOnNames.resx">
+      <DependentUpon>201707101346172_MaxLengthOnNames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707101353056_ColumnFirstName.resx">
+      <DependentUpon>201707101353056_ColumnFirstName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707101418564_ComplexDataModel.resx">
+      <DependentUpon>201707101418564_ComplexDataModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707101424567_ComplexDataModel1.resx">
+      <DependentUpon>201707101424567_ComplexDataModel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707101427063_ComplexDataModel2.resx">
+      <DependentUpon>201707101427063_ComplexDataModel2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707101431348_ComplexDataModel4.resx">
+      <DependentUpon>201707101431348_ComplexDataModel4.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

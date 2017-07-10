@@ -5,8 +5,10 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using UniversityOfSunderland.DAL;
+using System.Data.Entity.Infrastructure.Interception;
 
-namespace dot_NET_MVC_Example
+namespace UniversityOfSunderland
 {
     public class MvcApplication : System.Web.HttpApplication
     {
@@ -16,6 +18,8 @@ namespace dot_NET_MVC_Example
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            DbInterception.Add(new SchoolInterceptorTransientErrors());
+            DbInterception.Add(new SchoolInterceptorLogging());
         }
     }
 }

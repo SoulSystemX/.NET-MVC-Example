@@ -73,3 +73,11 @@ I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\
 I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\PagedList.Mvc.dll
 I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\PagedList.xml
 I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\bin\PagedList.Mvc.xml
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\dot NET MVC Example.csproj.GenerateResource.Cache
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\UniversityOfSunderland.Migrations.InitialCreate.resources
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\UniversityOfSunderland.Migrations.MaxLengthOnNames.resources
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\UniversityOfSunderland.Migrations.ColumnFirstName.resources
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\UniversityOfSunderland.Migrations.ComplexDataModel.resources
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\UniversityOfSunderland.Migrations.ComplexDataModel1.resources
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\UniversityOfSunderland.Migrations.ComplexDataModel2.resources
+I:\Google Drive (SoulSystemX)\GitHub Build\.NET MVC Example\dot NET MVC Example\dot NET MVC Example\obj\Debug\UniversityOfSunderland.Migrations.ComplexDataModel4.resources
